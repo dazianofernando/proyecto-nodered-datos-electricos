@@ -1,0 +1,11 @@
+{
+    "projects": {
+        "conectandorepositorio": {
+            "credentialSecret": false
+        },
+        "proyecto-nodered-datos-electricos": {
+            "credentialSecret": false
+        }
+    },
+    "activeProject": "proyecto-nodered-datos-electricos"
+}
